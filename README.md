@@ -1,4 +1,4 @@
-# Llama2-Model-Downloader
+# llama2-model-downloader
 
 This is a Python-based script for **downloading Llama2 models**.
 
@@ -20,7 +20,7 @@ Simply download the script and execute it in your preferred Python environment.
 ## Usage
 Run the script using the following command in your terminal:
 ```
-    python llama2_download_python.py
+    python llama2_model_downloader.py
 ```
 ## Documentation
 Additional information and instructions for using this script can be found in the script's comments.
