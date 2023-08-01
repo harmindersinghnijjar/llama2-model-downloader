@@ -2,11 +2,14 @@
 
 This is a Python-based script for downloading Llama2 models.
 
-<b>Streamlined</b>: This script enables a hassle-free process of downloading various Llama2 models. Simply provide the presigned URL and the models you wish to download, and let the script do the rest.
+#### Streamlined
+This script enables a hassle-free process of downloading various Llama2 models. Simply provide the presigned URL and the models you wish to download, and let the script do the rest.
 
-<b>Flexible</b>: You can choose from a selection of model sizes, from smaller 7B models to larger, more comprehensive 70B models. You can also choose whether you want to download just the 'chat' version or all versions of each model.
+#### Flexible
+You can choose from a selection of model sizes, from smaller 7B models to larger, more comprehensive 70B models. You can also choose whether you want to download just the 'chat' version or all versions of each model.
 
-<b>Efficient</b>: The script automates the download process, fetching the necessary files (including model parameters and checklists) from the specified URL and saving them in the appropriate directories.
+#### Efficient
+The script automates the download process, fetching the necessary files (including model parameters and checklists) from the specified URL and saving them in the appropriate directories.
 
 ### How to use the Llama2-Download-Python in your project
 
@@ -28,6 +31,6 @@ The Llama2-Download-Python script is licensed under the MIT license.
 Example
 ```
 python llama2_download_python.py
-Enter the URL: https://download.llamameta.net/*?Policy=...
-Enter the list of models to download without spaces (7B,13B,70B,7B-chat,13B-chat,70B-chat), or press Enter for all: 7B,13B
 ```
+
+
