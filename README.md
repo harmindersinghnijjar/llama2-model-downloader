@@ -1,4 +1,4 @@
-# Llama2-Download-Python
+# Llama2-Model-Downloader
 
 This is a Python-based script for **downloading Llama2 models**.
 
