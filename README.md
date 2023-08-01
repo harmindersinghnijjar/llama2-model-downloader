@@ -2,13 +2,13 @@
 
 This is a Python-based script for downloading Llama2 models.
 
-#### Streamlined
+##### Streamlined
 This script enables a hassle-free process of downloading various Llama2 models. Simply provide the presigned URL and the models you wish to download, and let the script do the rest.
 
-#### Flexible
+##### Flexible
 You can choose from a selection of model sizes, from smaller 7B models to larger, more comprehensive 70B models. You can also choose whether you want to download just the 'chat' version or all versions of each model.
 
-#### Efficient
+##### Efficient
 The script automates the download process, fetching the necessary files (including model parameters and checklists) from the specified URL and saving them in the appropriate directories.
 
 ### How to use the Llama2-Download-Python in your project
